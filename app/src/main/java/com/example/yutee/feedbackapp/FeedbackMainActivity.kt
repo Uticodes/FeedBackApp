@@ -7,6 +7,10 @@ import android.widget.Toast
 import kotlinx.android.synthetic.main.feedback_main.*
 
 class FeedbackMainActivity : AppCompatActivity() {
+    /*
+   *   Created by Utibe Etim
+   *   7/March/2019
+    */
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
